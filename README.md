@@ -1,4 +1,4 @@
 yasnippets
 ==========
 
-  Comprehensive collection of yasnippets
+  It's the most comprehensive collection of yasnippets
